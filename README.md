@@ -6,8 +6,8 @@ git config --global user.name w15104
 springboot-version： 1.5.8-RELEASE
 jdk: 1.8
 
-#工程目录结构
-##1.1	/src/main/Java目录
+# 工程目录结构
+## 1.1	/src/main/Java目录
 * a.	App.java 该类为项目的启动类，包含加载配置和启动的方法
 * b.  Swagger2.java swagger的配置
 * c.  basic 基础组件包<br/>
@@ -21,7 +21,7 @@ jdk: 1.8
 * f.	mapper层存放操作数据库的类
 * g.	service层存放业务实现的接口和impl（存放实现业务逻辑类）目录
 
-##1.2	/src/main/Resources目录
+## 1.2	/src/main/Resources目录
 * a.	application.properties 用来控制配置文件的选取
 * b.	application-dev.properties  开发中的配置文件
 * c.	application-prod.properties  部署环境中使用的配置文件
@@ -30,7 +30,7 @@ jdk: 1.8
 * f.  mybatis mybatis的配置文件
 * g.  logback.xml logback配置文件
 * g.	other01 …other02 代表根据业务需要添加存放资源的目录
-##1.3	/src/main/bin 脚本目录
-##1.4 /src/test/java 测试目录
-##1.5 docs 文档目录
+## 1.3	/src/main/bin 脚本目录
+## 1.4 /src/test/java 测试目录
+## 1.5 docs 文档目录
 
