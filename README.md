@@ -7,8 +7,8 @@ springboot-version： 1.5.8-RELEASE
 jdk: 1.8
 
 #工程目录结构
-1.1	/src/main/Java目录
-a.	App.java 该类为项目的启动类，包含加载配置和启动的方法
+##1.1	/src/main/Java目录
+###a.	App.java 该类为项目的启动类，包含加载配置和启动的方法
 b.  Swagger2.java swagger的配置
 c.  basic 基础组件包
        aop 切面实现
