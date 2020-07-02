@@ -1,7 +1,7 @@
 # spring-boot-template
 spring-boot模板工程。
-git config --global user.email "1434613751@qq.com"
-git config --global user.name w15104
+git config --global user.email email
+git config --global user.name name
 #环境信息
 springboot-version： 1.5.8-RELEASE
 jdk: 1.8
